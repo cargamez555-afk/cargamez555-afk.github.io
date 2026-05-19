@@ -1,0 +1,9 @@
+# GitHub Pages Jekyll configuration
+# This ensures ads.txt is served as-is (not processed by Jekyll)
+
+include:
+  - ads.txt
+
+# Disable Jekyll processing for plain text files
+exclude:
+  - README.md

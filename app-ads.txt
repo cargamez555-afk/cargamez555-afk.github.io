@@ -1,7 +1,3 @@
-Source: https://cas.ai/app-ads.txt
-
----
-
 # CAS.ai Updated May 13, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
@@ -5485,5 +5481,3 @@ zetaglobal.net, 815, RESELLER
 zetaglobal.net, 987, RESELLER
 zetaglobal.net, 546, RESELLER
 zetaglobal.net, 891, RESELLER
-
-facebook.com, 4380064712277964, DIRECT, c3e20eee3f780d68
